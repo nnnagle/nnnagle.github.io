@@ -1,6 +1,22 @@
 # Site navigation links
 
-- title:
-  url:
+- title: About Me
+  url: /about/
   excerpt:
   image:
+
+- title: Publications
+  url: /publications/
+  excerpt:
+  image:
+
+- title: Courses
+  url: /courses/
+  excerpt:
+  image:
+
+- title: Vita
+  url: /vita/
+  excerpt:
+  image:
+
