@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+image:
+  feature: us-choro-long.png
 ---
 
 <div class="tiles">
