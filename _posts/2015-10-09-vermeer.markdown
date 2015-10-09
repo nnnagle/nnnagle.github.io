@@ -1,0 +1,22 @@
+---
+layout: article
+title: Vermeer, Maps, and Geography at UTK
+modified:
+categories: 
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2015-10-09T18:14:39-04:00
+---
+
+This post was on the I Require Art Facebook site today.  What is it with Vermeer and maps?  He only produced 30 or so paintings (that we know of) and 1/3 of those contain maps.  The map here is one of the Netherlands by Hugo Allard.  Hugo's son - Charles - did a nice map of Iberia that is now hanging in the hall of our Geography Building outside classroom 101, along with many other beautiful maps from the 16th through 18th centuries that are on load to us from the McClung Museum of Nature and Culture.
+
+## The Vermeer
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/IRequireArt/posts/900226943365154:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/IRequireArt/posts/900226943365154:0"><p>Johannes Vermeer (Dutch; Baroque, Dutch Golden Age; 1632-1675): Young Woman with a Water Pitcher, c. 1662. Oil on...</p>Posted by <a href="https://www.facebook.com/IRequireArt">I Require Art</a> on&nbsp;<a href="https://www.facebook.com/IRequireArt/posts/900226943365154:0">Friday, October 9, 2015</a></blockquote></div></div>
+
+## Our Allard
+<a class="embedly-card" href="http://mcclungmuseum.pastperfectonline.com/webobject/9E86EE58-AD06-40EA-AB38-753620830691">Map Collection - 2014.17.33</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
