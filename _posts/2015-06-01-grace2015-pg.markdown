@@ -1,0 +1,18 @@
+---
+layout: post
+title: The relationship between agriculture and fertility in Mali is not as simple as one would think 
+modified:
+categories: 
+excerpt: 
+tags: []
+image:
+  feature: Grace2015PG.png
+  teaser:
+  thumb:
+date: 2015-06-01T21:37:52-04:00
+---
+
+Kathryn Grace and I just had a paper published in The Professional Geographer.  In this paper, we used used satellite imagery to estimate the agricultural productivity of villages in Mali, and then estimated the relationship between productivity and fertility and fertility aspirations using the Demographic and Health Surveys. We find that productivity is not directly related to fertility, and that the primary constraint to fertility appears to be behavioral.
+
+Kathryn and Nicholas N. Nagle.  2015.  Using high-resolution remotely sensed data to examine the relationship between agriculture and fertility in Mali.  The Professional Geographer. 67(4): 641-654.
+[http://dx.doi.org/10.1080/00330124.2015.1032899](http://dx.doi.org/10.1080/00330124.2015.1032899)
