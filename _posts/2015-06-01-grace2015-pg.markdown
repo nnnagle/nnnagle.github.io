@@ -1,6 +1,6 @@
 ---
-layout: post
-title: The relationship between agriculture and fertility in Mali is not as simple as one would think 
+layout: article
+title: "The relationship between agriculture and fertility in Mali is not as simple as one would think" 
 modified:
 categories: 
 excerpt: 
