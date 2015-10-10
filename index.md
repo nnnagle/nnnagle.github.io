@@ -6,7 +6,7 @@ image:
   feature: us-choro-long.png
 feature:
   visible: true
-  headline: "Featured Posts"
+  headline: "Top Posts"
   category: articles
 ---
 
