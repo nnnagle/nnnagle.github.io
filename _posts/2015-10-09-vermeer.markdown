@@ -2,13 +2,14 @@
 layout: article
 title: Vermeer, Maps, and Geography at UTK
 modified:
-categories: 
+categories: articles
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: 
+  teaser: allard-image.jpg
+  thumb: allard-image.jpg
+featured: true
 date: 2015-10-09T18:14:39-04:00
 ---
 

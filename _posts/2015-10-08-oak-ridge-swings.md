@@ -9,9 +9,10 @@ excerpt: ""
 tags: []
 ads: true
 image:
-  feature:
+  feature: 
   teaser: swings-thumb.png
   thumb: 
+featured: true
 ---
 
 If you're ever in Oak Ridge, TN, with kids, here's a great map of all the public swings in town.  Oh yeah, and my daughter made it.
