@@ -10,5 +10,7 @@ Applications include research with the US Census Bureau related to the productio
 
 [Information for Prospective Students](http://nnnagle.github.io/prospectives/)
 
-## I would be VERY interested in seeing an application from a student interested in improving how we collect data about our nation's forests!!!
+### I am always VERY interested in seeing applications from students interested in working with spatial methods for improving surveys and censuses.
+
+### New Project: I would be VERY interested in seeing an application from a student interested in improving how we collect data about our nation's forests!!!
 This would be collaborative work with the US Forest Service Southern Research Station here in Knoxville.  The ideal candidate would have a desire to work in data science (working with field survey data, satellite imagery and statistics) and at least a little interest in biogeography. Either MS/PhD or PhD. See the above link to obtain more information about working with me.
