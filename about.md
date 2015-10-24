@@ -8,9 +8,15 @@ I am an Associate Professor of Geographic Information Science at the Geography D
 
 Applications include research with the US Census Bureau related to the production and visualization of the population data, research exploring methods to integrate survey data with satellite imagery, especially in sub-Saharan Africa, and researching exploring the spatial patterns of social networks.
 
+I am looking for MS/PhD or PhD students that are interested in the following topics:
+
+ - Estimating Population Distribution
+ - Improving small area estimates from censuses and surveys, especially population surveys
+ - Spatial Data Science
+
+New Project: I would be VERY interested in students interested in working with myself and the US Forest Service to develop spatio-temporal estimates of forest quality and quantity.
+
+
 [Information for Prospective Students](http://nnnagle.github.io/prospectives/)
 
-### I am always VERY interested in seeing applications from students interested in working with spatial methods for improving surveys and censuses.
 
-### New Project: I would be VERY interested in seeing an application from a student interested in improving how we collect data about our nation's forests!!!
-This would be collaborative work with the US Forest Service Southern Research Station here in Knoxville.  The ideal candidate would have a desire to work in data science (working with field survey data, satellite imagery and statistics) and at least a little interest in biogeography. Either MS/PhD or PhD. See the above link to obtain more information about working with me.
