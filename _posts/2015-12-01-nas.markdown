@@ -1,0 +1,27 @@
+---
+layout: article
+title: Nagle appointed to National Academy of Sciences committee
+modified:
+categories: articles
+excerpt:
+tags: []
+image:
+  feature: 
+  teaser: 
+  thumb: 
+featured: true
+date: 2015-12-01T18:14:39-04:00
+---
+I am excited about this.  Here is an excerpt from a press release being prepared by the University.
+
+Nicholas Nagle has been appointed to a National Academy of Sciences committee to assist the Census Bureau.  Nagle will serve on the Standing Committee on Reengineering Census Operations. 
+ 
+The Census is conducted every ten years to help apportion seats in the House of Representatives as constitutionally required.  The census is also used to support the data-driven allocation of $400 billion to local communities each year. Yet, the 2010 Census was the costliest count in history. The National Academies created the Standing Committee on Reengineering Census Operations to assist the Census Bureau in planning a cost-effective census in 2020 and in modernizing operations for censuses and surveys across the Bureau.  The Standing Committee will meet through 2019, and will advise the Census Bureau as its develops cost-saving measures such as increasing use of GPS and aerial imagery to identify where houses are and a new system allowing persons to answer the census through the internet.
+ 
+The National Academies of Sciences, Engineering and Medicine is a non-governmental institution first chartered in 1863 to serve the nation with scientific expertise whenever called upon and to honor distinguished scientists.  The National Academies enlists the nation’s foremost scientific experts to address society’s most pressing problems and is respected for its tradition of bringing together experts from diverse backgrounds who wouldn’t normally collaborate.  All serve without pay.
+## The Vermeer
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/IRequireArt/posts/900226943365154:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/IRequireArt/posts/900226943365154:0"><p>Johannes Vermeer (Dutch; Baroque, Dutch Golden Age; 1632-1675): Young Woman with a Water Pitcher, c. 1662. Oil on...</p>Posted by <a href="https://www.facebook.com/IRequireArt">I Require Art</a> on&nbsp;<a href="https://www.facebook.com/IRequireArt/posts/900226943365154:0">Friday, October 9, 2015</a></blockquote></div></div>
+
+## Our Allard
+<a class="embedly-card" href="http://mcclungmuseum.pastperfectonline.com/webobject/9E86EE58-AD06-40EA-AB38-753620830691">Map Collection - 2014.17.33</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
