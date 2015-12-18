@@ -14,6 +14,9 @@ I am looking for MS/PhD or PhD students that are interested in the following top
  - Improving small area estimates from censuses and surveys, especially population surveys
  - Spatial Data Science
 
+I have security clearance to use raw survey data from the US Census Bureau on approved projects.  In particular, it is often possible to identify the spatial context of an individual or to link records across surveys.  This allows us to answer interesting questions for social science which help the Census Bureau to improve their own processes.  Often times, students working with me will obtain this clearance as well so that they uses these data in their own work.  I can also put students in contact with formal mentors within the Census Bureau.  This is important training for possible careers in the Federal Statistical System.  I am always interested in students with interesting ideas for research in this type of data environment.
+
+
 New Project: I would be VERY interested in students interested in working with myself and the US Forest Service to develop spatio-temporal estimates of forest quality and quantity.
 
 
