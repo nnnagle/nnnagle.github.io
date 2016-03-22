@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+/* CSS goes here. */
+.US_county_1790_conflated { 
+    stroke: #000;
+    stroke-width: .25;	
+    fill: #ccc;
+}
+
+
+.county2 { 
+    stroke: #0000ff;
+    stroke-width: .25;	
+    fill: #ccc;
+}
+
+.county {
+    stroke: #000;
+    stroke-width: .25;
+    fill: #ccc;
+}
+
+h2 {
+        text-align: center;
+}
+
+#year{ text-align: center; width: 600px; font: 24px 'Helvetica Neue', Arial;}
+#year.play{ width: 100px; margin-left: 250px; background-color: #eee; border: 1px solid #999; cursor: pointer;}
+</style>
+
+<body>
+    <h2><span></span></h2>
+    <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script></script>
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+    <script>
+
+var years = ["1810","1820","1830","1840","1850","1860","1870","1880","1890", "1900","1910","1920","1930","1940","1950","1960","1970","1980","1990","2000","2010"];
+
+var width = 960,
+    height = 800;
+
+
+var color_domain = [3000000, 6000000, 9000000, 12000000, 15000000, 18000000, 21000000, 24000000, 27000000, 30000000, 33000000]
+
+var ext_color_domain = [0, 3000000, 6000000, 9000000, 12000000, 15000000, 18000000, 21000000, 24000000, 27000000, 30000000, 33000000]
+
+var ext_color_domain = [.9, .95, 1, 1.05, 1.1]
+var ext_color_domain = [1.1, 1.05, 1, .95, .9]
+
+var legend_labels = ["> 108", "102 - 105", "98 - 102", "92 - 98", " < 92"]
+
+var projection = d3.geo.albersUsa()
+    .scale(1000)
+    .translate([width / 2, height / 2]);
+
+var threshold = d3.scale.threshold()
+    .domain([.11, .22, .33, .50])
+    .range(["#6e7c5a", "#a0b28f", "#d8b8b3", "#b45554", "#760000"]);
+
+var path = d3.geo.path().projection(projection);
+
+var svg = d3.select("body").append("svg")
+   .attr("width", width)
+   .attr("height", height);
+
+var curiter = 0;   
+
+var color = d3.scale.threshold()
+//        .domain([0.1, 1, 10, 50, 100])
+    	.domain([.1,.92, .98, 1.02, 1.08, 2])
+//        .range(["#f2f0f7", "#dadaeb", "#bcbddc", "#9e9ac8", "#756bb1", "#54278f"]);
+    	.range(["#aaaaaa","#008837","#a6dba0","#f7f7f7","#c2a5cf","#7b3294","#aaaaaa"]);
+
+function setMap() {
+d3.json("nhgis_big2.json", function(error, nhgis) {
+    console.log(nhgis)
+	svg.append("g")
+	.selectAll(".county")
+	.data(topojson.feature(nhgis, nhgis.objects.merge2).features)
+//	.data(topojson.feature(nhgis_middle, nhgis_middle.objects.nhgis_ne).features)
+	.enter().append("path")
+	.attr("class", "county")
+	.style("fill", function(d){
+	    if (d.properties.DECADE == years[curiter]) {
+		return color(d.properties.SEXRAT);
+		//return "#ccc";
+	    } else {
+		return "none";
+	    }
+	})
+    .style("stroke-width", function(d){
+	if (d.properties.DECADE == years[curiter]) {
+	    return ".25";
+	} else {
+	    return "0";
+	}
+    })
+	.attr("d", path);
+	d3.select("h2 span").text("Sex Ratio" + years[curiter]);
+	d3.select( "#year" )
+	    .text( "Play" )
+
+});
+}
+
+function animateMap() {
+    var timer;
+    timer = setInterval(function() {
+	if(curiter < years.length-1){
+	    curiter += 1;
+	} else {
+	    curiter = 0;
+	}
+	d3.select("h2 span").text("U.S. County Boundaries " + years[curiter]);
+	svg.selectAll(".county").attr("class", "county")
+	    .style("fill", function(d) {
+		if(d.properties.DECADE == years[curiter]){
+		    return color(d.properties.SEXRAT);
+		    //return "#ccc";
+		} else {
+		    return "none";
+		}
+	    })
+	    .style("stroke-width", function(d){
+		if (d.properties.DECADE == years[curiter]){
+		    return ".25";
+		} else {
+		    return "0";
+		}
+	    });
+    }, 2000);
+}
+
+function init() {
+    setMap();
+    animateMap();
+}
+
+
+
+
+window.onload = init();
+
+var legend = svg.selectAll("g.legend")
+    .data(ext_color_domain)
+    .enter().append("g")
+    .attr("class", "legend");
+       
+var ls_w = 20, ls_h = 20;
+       
+legend.append("rect")
+    .attr("x", 20)
+    .attr("y", function(d, i){ return height - (i*ls_h) - 2*ls_h;})
+    .attr("width", ls_w)
+    .attr("height", ls_h)
+    .style("fill", function(d, i) { return color(d); })
+    .style("opacity", 0.8);
+	     
+legend.append("text")
+    .attr("x", 50)
+    .attr("y", function(d, i){ return height - (i*ls_h) - ls_h - 4;})
+    .text(function(d, i){ return legend_labels[i]; });
+	        
+
+    </script>
