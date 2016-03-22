@@ -99,7 +99,7 @@ d3.json("nhgis_big2.json", function(error, nhgis) {
 	}
     })
 	.attr("d", path);
-	d3.select("h2 span").text("Sex Ratio" + years[curiter]);
+	d3.select("h2 span").text("Sex Ratio: " + years[curiter]);
 	d3.select( "#year" )
 	    .text( "Play" )
 
@@ -114,7 +114,7 @@ function animateMap() {
 	} else {
 	    curiter = 0;
 	}
-	d3.select("h2 span").text("U.S. County Boundaries " + years[curiter]);
+	d3.select("h2 span").text("Sex Ratio: " + years[curiter]);
 	svg.selectAll(".county").attr("class", "county")
 	    .style("fill", function(d) {
 		if(d.properties.DECADE == years[curiter]){
