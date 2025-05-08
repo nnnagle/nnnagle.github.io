@@ -7,14 +7,14 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      url: https://https://www.linkedin.com/in/nicholas-nagle-358644a2/
+      url: https://www.linkedin.com/in/nicholas-nagle-358644a2/
     - text: "<img src='media/UT-logo.png' style='height:16px; vertical-align:-2px;'> Faculty Page"
       url: https://geography.utk.edu/people/instructional-faculty/nagle-nicholas/
 ---
 
 ## Bio
 I am a Data Scientist working at the intersection of survey statistics, spatial data analysis, and AI/ML.
-I am a Professor of Geography at the University of Tennessee, Knoxville, currently on loan to the National Science Foundation (NSF), where I am a Program Director of the Human Networks and Data Science Program. Previously, I served as Head of the Department of Geography and Sustainability.
+I am a Professor of Geography at the University of Tennessee, Knoxville, currently on loan to the National Science Foundation (NSF), where I am a Program Director of the Human Networks and Data Science Program. Previously, I was Head of the Department of Geography and Sustainability.
 
 I am an expert in statistical and geospatial data analysis. Much of my origional research centers around methods for geospatial data and analysis to squeeze more local information from large national censuses and surveys. My research has been funded by the National Science Foundation, US Census Bureau, US Forest Service, US Dept of Energy, and Alfred P. Sloan Foundation, and I have served in leadership roles on committees of the National Academies of Science, Engineering, and Mathematics providing feedback on innovations at the US Census Bureau.
 
