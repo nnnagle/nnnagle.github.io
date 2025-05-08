@@ -11,7 +11,7 @@ about:
       href: https://https://www.linkedin.com/in/nicholas-nagle-358644a2/
 ---
 
-I am a data scientist and Professor of Geography at the University of Tennessee, Knoxville. Currently, I am on loan to the National Science Foundation (NSF) as a Program Director of the Human Networks and Data Science Program. Previously, I served as Head of the Department of Geography and Sustainability.
+I am a Data Scientist and Professor of Geography at the University of Tennessee, Knoxville. Currently, I am on loan to the National Science Foundation (NSF) as a Program Director of the Human Networks and Data Science Program. Previously, I served as Head of the Department of Geography and Sustainability.
 
 I am an expert in statistical and geospatial data analysis. Much of my origional research centers around methods for geospatial data and analysis to squeeze more local information from large national censuses and surveys. My research has been funded by the National Science Foundation, US Census Bureau, US Forest Service, US Dept of Energy, and Alfred P. Sloan Foundation, and I have served in leadership roles on committees of the National Academies of Science, Engineering, and Mathematics providing feedback on innovations at the US Census Bureau.
 
