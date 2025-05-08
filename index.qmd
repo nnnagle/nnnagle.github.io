@@ -8,7 +8,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       url: https://https://www.linkedin.com/in/nicholas-nagle-358644a2/
-    - text: Faculty Page
+    - text: "<img src='media/UT-logo.png' style='height:16px; vertical-align:-2px;'> Faculty Page"
       url: https://geography.utk.edu/people/instructional-faculty/nagle-nicholas/
 ---
 

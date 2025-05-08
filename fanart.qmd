@@ -6,18 +6,19 @@ format:
 listing:
   type: grid
   contents: 
-    - title: "Me Chopping the rain forest" 
-      subtitle: "Also: Evidence that at least one student paid attention in lecture."
+    - title: "Slash!" 
+      subtitle: "Or proof that N>=1 student(s) paid attention in lecture"
       image: "media/fanart-jungle.jpeg"
-    - title: "A Portrait"
+    - title: "Portrait #1"
       image: "media/fanart-kid.jpeg"
-    - title: "Another portrait"
+    - title: "Portrait #2"
       image: "media/fanart-sketch.jpeg"
-    - title: "Another portrait"
+    - title: "Portrait #3"
+      susbtitle: "The wizard of R"
       image: "media/fanart-gandalf1.jpeg"
-    - title: "A student and me"
+    - title: "Prof. Nagle and Student"
       image: "media/fanart-gandalf2.jpeg"
-    - title: "A pie chart"
+    - title: "Pie is meant for eating"
       image: "media/fanart-piechart.jpeg"
 ---
 

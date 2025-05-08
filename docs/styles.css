@@ -1,8 +1,12 @@
 /* css styles */
 /* Resize images inside listing grid */
+.card-img-top {
+  display: flex;
+  justify-content: center;
+}
 
 .card-img-top img {
-  width: 225px !important;
+  width: 125px !important;
   height: auto !important;
   object-fit: cover;
   border-radius: 0px;
