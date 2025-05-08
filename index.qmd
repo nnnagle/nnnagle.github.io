@@ -10,6 +10,9 @@ about:
       url: https://www.linkedin.com/in/nicholas-nagle-358644a2/
     - text: "<img src='media/UT-logo.png' style='height:16px; vertical-align:-2px;'> Faculty Page"
       url: https://geography.utk.edu/people/instructional-faculty/nagle-nicholas/
+    - icon: envelope
+      text: email
+      url: "mailto:nnagle@utk.edu"
 ---
 
 ## Bio
@@ -23,7 +26,7 @@ I am an expert in statistical and geospatial data analysis. Much of my origional
 ## Key research interests
 
 * Spatial statistics: mixed level modeling, geostatistics
-* Small area statistics
+* Survey and Small area statistics
 * Bayesian data analysis
 * Environmental data analysis
 * Demography and Population Geography
