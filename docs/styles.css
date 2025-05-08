@@ -1,1 +1,9 @@
 /* css styles */
+/* Resize images inside listing grid */
+
+.card-img-top img {
+  width: 225px !important;
+  height: auto !important;
+  object-fit: cover;
+  border-radius: 0px;
+}

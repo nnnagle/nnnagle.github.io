@@ -1,0 +1,24 @@
+---
+title: "Fanart"
+format: 
+  html:
+    css: styles.css
+listing:
+  type: grid
+  contents: 
+    - title: "Me Chopping the rain forest" 
+      subtitle: "Also: Evidence that at least one student paid attention in lecture."
+      image: "media/fanart-jungle.jpeg"
+    - title: "A Portrait"
+      image: "media/fanart-kid.jpeg"
+    - title: "Another portrait"
+      image: "media/fanart-sketch.jpeg"
+    - title: "Another portrait"
+      image: "media/fanart-gandalf1.jpeg"
+    - title: "A student and me"
+      image: "media/fanart-gandalf2.jpeg"
+    - title: "A pie chart"
+      image: "media/fanart-piechart.jpeg"
+---
+
+A collection of unsolicited fanart from pre-K to graduate students.
