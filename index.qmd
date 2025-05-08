@@ -1,11 +1,20 @@
 ---
-title: "nnnagle.github.io"
+title: "Nicholas Nagle"
+image: media/headshot.jpg
+toc: false 
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://https://www.linkedin.com/in/nicholas-nagle-358644a2/
 ---
 
-This is a Quarto website.
+I am a data scientist and Professor of Geography at the University of Tennessee, Knoxville. Currently, I am on loan to the National Science Foundation (NSF) as a Program Director of the Human Networks and Data Science Program. Previously, I served as Head of the Department of Geography and Sustainability.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an expert in statistical and geospatial data analysis. Much of my origional research centers around methods for geospatial data and analysis to squeeze more local information from large national censuses and surveys. My research has been funded by the National Science Foundation, US Census Bureau, US Forest Service, US Dept of Energy, and Alfred P. Sloan Foundation, and I have served in leadership roles on committees of the National Academies of Science, Engineering, and Mathematics providing feedback on innovations at the US Census Bureau.
 
-```{r}
-1 + 1
-```
+Due to my leave from the University to NSF, I am not admitting new graduate students or researchers in the 25/26 academic year.
+
+
