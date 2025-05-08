@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nicholas Nagle",
@@ -26,5 +19,12 @@
     "title": "Nicholas Nagle",
     "section": "Key research interests",
     "text": "Key research interests\n\nSpatial statistics: mixed level modeling, geostatistics\nSmall area statistics\nBayesian data analysis\nEnvironmental data analysis\nDemography and Population Geography"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Nicholas Nagle",
+    "section": "Teaching",
+    "text": "Teaching\nI regularly teach the following graduate and undergraduate topcs:\n\nIntroduction to Statistics\nMultilevel regression\nSpatio-temporal statistics\nSurvey statistics\nAdvanced GIS analysis"
   }
 ]

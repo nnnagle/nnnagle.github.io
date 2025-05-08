@@ -16,7 +16,7 @@ I am a Professor of Geography at the University of Tennessee, Knoxville, current
 
 I am an expert in statistical and geospatial data analysis. Much of my origional research centers around methods for geospatial data and analysis to squeeze more local information from large national censuses and surveys. My research has been funded by the National Science Foundation, US Census Bureau, US Forest Service, US Dept of Energy, and Alfred P. Sloan Foundation, and I have served in leadership roles on committees of the National Academies of Science, Engineering, and Mathematics providing feedback on innovations at the US Census Bureau.
 
-Due to my leave from the University to NSF, I am not admitting new graduate students or researchers in the 25/26 academic year.
+*Due to my leave from the University to NSF, I am not admitting new graduate students or researchers in the 25/26 academic year.*
 
 ## Key research interests
 
@@ -25,4 +25,16 @@ Due to my leave from the University to NSF, I am not admitting new graduate stud
 * Bayesian data analysis
 * Environmental data analysis
 * Demography and Population Geography
+
+## Teaching
+
+I regularly teach the following graduate and undergraduate topcs:
+
+* Introduction to Statistics
+* Multilevel regression
+* Spatio-temporal statistics
+* Survey statistics
+* Advanced GIS analysis
+
+
 
